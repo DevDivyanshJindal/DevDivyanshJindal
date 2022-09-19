@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divyansh</h1>
 <h3 align="center">A passionate man from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prodivyansh&label=Profile%20views&color=0e75b6&style=flat" alt="prodivyansh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prodivyansh" alt="prodivyansh" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/piracyoff" target="blank"><img src="https://img.shields.io/twitter/follow/piracyoff?logo=twitter&style=for-the-badge" alt="piracyoff" /></a> </p>
 
 - 🌱 I’m currently learning **C,C++,JAVA,HTMl,CSS and much more......**
