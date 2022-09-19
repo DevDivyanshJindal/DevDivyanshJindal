@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prodivyansh&label=Profile%20views&color=0e75b6&style=flat" alt="prodivyansh" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prodivyansh" alt="prodivyansh" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/piracyoff" target="blank"><img src="https://img.shields.io/twitter/follow/piracyoff?logo=twitter&style=for-the-badge" alt="piracyoff" /></a> </p>
+
 - 🌱 I’m currently learning **C,C++,JAVA,HTMl,CSS and much more......**
 
 - 💬 Ask me about **HTML,CSS**
@@ -13,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/piracyoff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piracyoff" height="30" width="40" /></a>
 <a href="https://instagram.com/divyansh_jindal9_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divyansh_jindal9_" height="30" width="40" /></a>
 </p>
 
@@ -21,3 +26,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/prodivyansh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="prodivyansh" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prodivyansh&show_icons=true&locale=en&layout=compact" alt="prodivyansh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prodivyansh&show_icons=true&locale=en" alt="prodivyansh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prodivyansh&" alt="prodivyansh" /></p>
