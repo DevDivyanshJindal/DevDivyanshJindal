@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML,CSS**
 
-- 📫 How to reach me **ninjsa@hotmail.com**
+- 📫 How to reach me **divyanshjindal360@gmail.com**
 
 - ⚡ Fun fact **I Think I am Very Noob .......**
 
