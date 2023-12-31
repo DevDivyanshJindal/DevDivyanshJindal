@@ -52,6 +52,11 @@ Support My Projects :
 
 <p align="left"> <a href="https://github.com/prodivyansh"><img src="https://skillicons.dev/icons?i=vscode,replit,github,wordpress,css,html,js,python,nodejs"> </a> </p>
 
+## My Stats:
+<p align="center">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=ProDivyansh&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+</p>
+
 ## Activity On GitHub
 
 <p align="center">
