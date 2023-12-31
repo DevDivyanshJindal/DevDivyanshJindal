@@ -6,6 +6,7 @@
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 <p align="center">
   <a href="https://www.instagram.com/divyansh_jindal9_/"><img alt="Instagram" title="instagram" src="https://img.shields.io/badge/-Instagram-405DE6?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://discord.gg/79ucHtZn5w"><img alt="Telegram" title="telegram" src="https://img.shields.io/badge/-Telegram-229ED9?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
   <a href="https://github.com/ProDivynash?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ProDivyansh?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a>
   <a href="https://github.com/ProDivyansh"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ProDivyansh?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
