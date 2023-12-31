@@ -4,3 +4,6 @@
 </p>
 <h3 align="center">Hey there, I'm <a href="https://github.com/Prodivyansh">ProDivyansh</a></h3>
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
+<p align="center">
+  <a href="https://discord.gg/79ucHtZn5w"><img alt="Instagram" title="instagram" src="https://img.shields.io/badge/-Instagram-7289DA?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+</p>
