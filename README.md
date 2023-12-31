@@ -15,7 +15,7 @@
 ## Profile Views
 
 
-  <table>
+  <table align="center">
     <tr>
       <!-- <th align="center">Profile Views</th> -->
       <th >Total Count</th>
