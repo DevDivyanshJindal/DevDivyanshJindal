@@ -50,7 +50,7 @@ Support My Projects :
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/prodivyansh"><img src="https://skillicons.dev/icons?i=vscode,replit,github,wordpress,css,html,js,python,bots,nodejs"> </a> </p>
+<p align="left"> <a href="https://github.com/prodivyansh"><img src="https://skillicons.dev/icons?i=vscode,replit,github,wordpress,css,html,js,python,nodejs"> </a> </p>
 
 
 
