@@ -17,8 +17,8 @@
 
   <table>
     <tr>
-      <!-- <th>Profile Views</th> -->
-      <th>Total Count</th>
+      <!-- <th align="center">Profile Views</th> -->
+      <th >Total Count</th>
     </tr>
     <tr>
       <!-- <td>
