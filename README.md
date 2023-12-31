@@ -36,9 +36,7 @@
   </table>
   
   ## What I'm Doing
-
-  <p align="center">
-
+ <p align="center">
 - 🔭 Working on HTML CSS Js Python etc.
 - 🌱 Learning Js & more
 - 📫 How to contact me:<p>
