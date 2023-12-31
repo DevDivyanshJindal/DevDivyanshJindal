@@ -48,5 +48,10 @@ Support My Projects :
 
 <a href="https://www.buymeacoffee.com/divyanshjiq" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 217px !important;" ></a>
 
+## Languages and Tools
+
+<p align="left"> <a href="https://github.com/prodivyansh"><img src="https://skillicons.dev/icons?i=vscode,replit,github,wordpress,css,html,js,python,bots,nodejs"> </a> </p>
+
+
 
 
