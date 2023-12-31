@@ -34,4 +34,16 @@
       </td>
     </tr>
   </table>
+  
+  ## What I'm Doing
+
+- 🔭 Working on HTML CSS Js Python etc.
+- 🌱 Learning Js & more
+- 📫 How to contact me: 
+<a href="https://t.me/DevDivyansh"><img alt="Telegram" title="telegram" src="https://img.shields.io/badge/-Telegram-229ED9?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+
+Support My Projects on KoFi:
+
+<a href="https://www.buymeacoffee.com/divyanshjiq" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 
