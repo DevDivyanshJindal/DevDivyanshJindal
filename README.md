@@ -23,7 +23,7 @@
     <tr>
       <!-- <td>
         <div align="center">
-          <a href="https://github.com/ProDivyansh"><img src="https://github.com/ProDivyansh.png" alt="@ProDivyansh" width="52" /></a>
+          <a href="https://github.com/DevDivyanshJindal"><img src="https://github.com/DevDivyanshJindal.png" alt="@DevDivyanshJindal" width="52" /></a>
           <br />
           <a align="center" href="https://github.com/ProDivyansh"><b>ProDivyansh</b></a>
         </b>
@@ -50,24 +50,24 @@ Support My Projects :
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/prodivyansh"><img src="https://skillicons.dev/icons?i=vscode,replit,github,wordpress,css,html,js,python,nodejs"> </a> </p>
+<p align="left"> <a href="https://github.com/DevDivyanshJindal"><img src="https://skillicons.dev/icons?i=vscode,replit,github,wordpress,css,html,js,python,nodejs"> </a> </p>
 
 ## My Stats:
 <p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=ProDivyansh&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=DevDivyanshJindal&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
 
 ## Activity On GitHub
 
 <p align="center">
   <a href="https://github.com/ProDivyansh">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ProDivyansh&theme=dark&hide_border=true&stroke=f53b3b"/>
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DevDivyanshJindal&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>
 
 ## Top Respositorys
 <p align="left">
- <a href="https://github.com/prodivyansh/Portfolio.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prodivyansh&repo=Portfolio.github.io&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+ <a href="https://github.com/DevDivyanshJindal/Portfolio.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=prodivyansh&repo=Portfolio.github.io&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
 
 
