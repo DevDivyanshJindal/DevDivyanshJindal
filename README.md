@@ -67,18 +67,17 @@ Support My Projects :
 
 ## Top Respositorys
 <div style="display: flex; justify-content: space-between;">
-  <div>
+  <div style="flex: 1; text-align: left;">
     <a href="https://github.com/DevDivyanshJindal/Portfolio.github.io">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DevDivyanshJindal&repo=Portfolio.github.io&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats">
     </a>
   </div>
-  <div>
+  <div style="flex: 1; text-align: right;">
     <a href="https://github.com/DevDivyanshJindal/JavaFullStack">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DevDivyanshJindal&repo=JavaFullStack&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats">
     </a>
   </div>
 </div>
-
 
 
 
