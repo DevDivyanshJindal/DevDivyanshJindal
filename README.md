@@ -66,7 +66,7 @@ Support My Projects :
 </p>
 
 ## Top Respositorys
-<table>
+<table align="center">
   <tr>
     <td>
       <a href="https://github.com/DevDivyanshJindal/Portfolio.github.io">
