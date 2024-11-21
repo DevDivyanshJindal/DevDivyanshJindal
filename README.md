@@ -50,7 +50,7 @@ Support My Projects :
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/DevDivyanshJindal"><img src="https://skillicons.dev/icons?i=vscode,replit,github,python,java,wordpress,css,html,js,nodejs"> </a> </p>
+<p align="left"> <a href="https://github.com/DevDivyanshJindal"><img src="https://skillicons.dev/icons?i=mysql,vscode,replit,github,python,java,wordpress,css,html,js,nodejs"> </a> </p>
 
 ## My Stats:
 <p align="center">
